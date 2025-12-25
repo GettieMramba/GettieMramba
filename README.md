@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">👋 Hi, I'm Gettie M.</h1>
+<h1 align="center">👋 Hi, I am Gertrude.</h1>
 <h3 align="center">Junior Software Engineer | Aspiring Cybersecurity Specialist</h3>
 
 ---
